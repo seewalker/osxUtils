@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>381</string>
+	<string>409.1</string>
 	<key>AMApplicationVersion</key>
-	<string>2.4</string>
+	<string>2.5</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -25,7 +25,7 @@
 					</array>
 				</dict>
 				<key>AMActionVersion</key>
-				<string>8</string>
+				<string>9</string>
 				<key>AMApplication</key>
 				<array>
 					<string>Preview</string>
@@ -68,7 +68,7 @@
 					<key>autoGenerateOutputName</key>
 					<false/>
 					<key>outputDirectory</key>
-					<string>~/automation/results</string>
+					<string>~/Desktop</string>
 					<key>outputName</key>
 					<string>New PDF from Images Output</string>
 					<key>pageSizeMode</key>
@@ -79,7 +79,7 @@
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.NewPDFfromImages</string>
 				<key>CFBundleVersion</key>
-				<string>8</string>
+				<string>9</string>
 				<key>CanShowSelectedItemsWhenRun</key>
 				<true/>
 				<key>CanShowWhenRun</key>
@@ -107,7 +107,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.500000:420.000000</string>
+				<string>309.000000:275.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/New PDF from Images.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -120,7 +120,7 @@
 	<key>workflowMetaData</key>
 	<dict>
 		<key>folderActionFolderPath</key>
-		<string>~/automation/concat</string>
+		<string>~/projects/osxUtils/concat_here</string>
 		<key>workflowTypeIdentifier</key>
 		<string>com.apple.Automator.folderAction</string>
 	</dict>
